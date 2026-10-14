@@ -88,7 +88,7 @@ I'm a software developer whose strongest language is **Python**, backed by solid
   <a href="mailto:borkarmanas736@gmail.com">
     <img src="https://img.shields.io/badge/Email-borkarmanas736%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/manas-borkar">
+  <a href="https://www.linkedin.com/in/manas-borkar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
