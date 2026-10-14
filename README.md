@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manas Borkar 👋
+Software developer in Mumbai building AI-powered apps and high-performance systems.
 
-<!--
-**SolvingSyntax/SolvingSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work on
+- 🔧 **Systems:** Multithreaded C++17 networking and packet inspection
+- 🤖 **AI/ML:** LLM-driven chatbots and sentiment analysis
+- 🌐 **Full-stack:** TypeScript and Python web applications
 
-Here are some ideas to get you started:
+## Featured projects
+- **[Multithreaded-DPI-Engine](link)**: C++17 deep packet inspection with stateful TLS/SNI filtering
+- **[Arogya-Sahayak](link)**: AI healthcare awareness chatbot on WhatsApp
+- **[finlytics-ai](link)**: AI-powered Indian stock market sentiment dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Python · SQL · React · Git · C++ 
+
+## Contact
+📧 borkarmanas736@gmail.com · 💼 LinkedIn: www.linkedin.com/in/manas-borkar
